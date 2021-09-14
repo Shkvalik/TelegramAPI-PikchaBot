@@ -4,7 +4,8 @@ import time
 
 from telebot import TeleBot, types
 
-from config import TOKEN, BUTTON_NAMES
+from config import BUTTON_NAMES
+from token import TOKEN
 
 PROJECT_DIR = os.path.dirname(os.path.realpath(__file__))
 IMAGES_DIR = os.    path.join(PROJECT_DIR, 'Files')
