@@ -1,5 +1,3 @@
-TOKEN = '1697018894:AAETl1k10sSIntbQgjjmizzTDdcF8SJ6pWc'
-
 BUTTON_NAMES = {
     'Весёлая😀': {
         'image_dir': 'fine',
